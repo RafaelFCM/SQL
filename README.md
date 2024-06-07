@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-# Kotlin
-Repositório da matéria de kotlin
-=======
-# Flutter
-Repositório da matéria de flutter
->>>>>>> origin/master
+Repositório da matéria de sql
+ 
